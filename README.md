@@ -1,0 +1,1 @@
+## Primeiro Projeto de ConsoleCore com C# 
